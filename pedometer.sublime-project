@@ -1,0 +1,15 @@
+{
+    "folders":
+    [
+      {
+        "path": "."
+      }
+    ],
+    "settings":
+    {
+      "path": "/Users/jns/Applications/Arduino.app/Contents/MacOS/Arduino",
+      "board": "arduino:mbed:nano33ble",
+      "port": "/dev/cu.usbmodem14201",
+      "sketchbook.path": "/Users/jns/Documents/Arduino"
+    }
+  }
