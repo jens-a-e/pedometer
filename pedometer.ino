@@ -1,5 +1,5 @@
 /**
- * Pedometer
+ * Pedometer - Work in Progress
  *
  * A step tracker using the algorithm of the Open Source C-Step-Counter by Anna
  * Brondin & Marcus Nordstrom at Malmö University -
@@ -30,9 +30,8 @@
 #include <Arduino_LSM9DS1.h>
 
 extern "C" {
-  #include "StepCountingAlgo.h"
+  #include "C-Step-Counter/include/StepCountingAlgo.h"
 }
-
 
 //#define DEBUG
 
